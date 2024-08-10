@@ -1,2 +1,0 @@
-// This program uses an actual RFID card reader and outputs the scanned code from the RFID card via UART
-// One of the three RFID codes are made to be valid and the rest invalid
